@@ -1,0 +1,33 @@
+body{
+  background: #7474BF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container{
+  position: absolute;
+  text-align: center;
+  height: 400px;
+  width:600px;
+background: #f9f3f3;
+font-family: 'Ranchers', cursive;
+top: 100px;
+left:400px;
+right:auto;
+color:#0a043c;
+box-shadow:0 8px 6px -6px black;
+}
+p{
+
+  font-family: 'Akaya Telivigala', cursive;
+  color:#09015f;
+  font-size:2rem;
+
+}
+.big{
+  margin-top: 60px;
+}
+button{
+  height:40px;
+  width:100px;
+}
